@@ -1,5 +1,4 @@
-Hello world
-Second commits 
 Third commit
 This is my test for Continous Integration .
 Test file for integration
+Test from Command line for integration####
